@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1662275499602,
+  "index": "https://sahusudheer.github.io/whatsapp-no-contact/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://sahusudheer.github.io/whatsapp-no-contact/favicon.ico",
+        "https://sahusudheer.github.io/whatsapp-no-contact/index.html",
+        "https://sahusudheer.github.io/whatsapp-no-contact/main.9ebd50361fb50816.js",
+        "https://sahusudheer.github.io/whatsapp-no-contact/manifest.webmanifest",
+        "https://sahusudheer.github.io/whatsapp-no-contact/polyfills.855040d37104201e.js",
+        "https://sahusudheer.github.io/whatsapp-no-contact/runtime.545e63cbb1c4c401.js",
+        "https://sahusudheer.github.io/whatsapp-no-contact/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-128x128.png",
+        "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-144x144.png",
+        "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-152x152.png",
+        "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-192x192.png",
+        "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-384x384.png",
+        "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-512x512.png",
+        "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-72x72.png",
+        "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://sahusudheer.github.io/whatsapp-no-contact/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://sahusudheer.github.io/whatsapp-no-contact/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://sahusudheer.github.io/whatsapp-no-contact/index.html": "c995214d82f0fa2073b66e6f90d1c5028d24dcab",
+    "https://sahusudheer.github.io/whatsapp-no-contact/main.9ebd50361fb50816.js": "03e601e360d71a22ae57a975c5b853bf4d6500da",
+    "https://sahusudheer.github.io/whatsapp-no-contact/manifest.webmanifest": "4d267144c0d687edd2e62a6b34af5dfa0af230eb",
+    "https://sahusudheer.github.io/whatsapp-no-contact/polyfills.855040d37104201e.js": "b892eb4005e3f4bf9046c7c881c8fe1a9e25e2fe",
+    "https://sahusudheer.github.io/whatsapp-no-contact/runtime.545e63cbb1c4c401.js": "7da8d2f8e1971d1c623163f21d66ae2845c2e4b2",
+    "https://sahusudheer.github.io/whatsapp-no-contact/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
